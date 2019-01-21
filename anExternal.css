@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(222, 185, 240);
+}
+    
+    img {
+      float: left;
+    }
+
+    #Husky {
+  border-radius: 25px;
+  border: 2px solid rgb(145, 11, 150);
+  padding: 20px; 
+  width: 110px;
+  height: 50px;  
+}
